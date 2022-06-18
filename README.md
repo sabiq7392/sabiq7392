@@ -29,8 +29,8 @@
       <img 
         alt="nodejs" 
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
-        width="40" 
-        height="40"
+        width="60" 
+        height="60"
       />
     </p>
   </section>
