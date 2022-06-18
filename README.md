@@ -83,13 +83,6 @@
         alt="sabiq7392" 
       />
     </p>
-    <p>
-      <img 
-        align="center" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=sabiq7392&locale=en&theme=github_dark" 
-        alt="sabiq7392" 
-      />
-    </p>
   </section>
 </article>
 
