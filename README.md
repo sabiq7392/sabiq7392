@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabiq Muhammad</h1>
-<h3 align="center">Web technology is one of my passions I enjoy working in creative industries such as UI design or front-end development, and back-end, blockchain development is also an option. The majority of my work is done in a JavaScript environment.</h3>
+<p align="center">Web technology is one of my passions I enjoy working in creative industries such as UI design or front-end development, and back-end, blockchain development is also an option. The majority of my work is done in a JavaScript environment.</p>
 
 <!--
 **sabiq7392/sabiq7392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
