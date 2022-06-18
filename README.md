@@ -29,8 +29,8 @@
       <img 
         alt="nodejs" 
         src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" 
-        width="60" 
-        height="60"
+        width="40" 
+        height="40"
       />
     </p>
   </section>
