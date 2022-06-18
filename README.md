@@ -68,6 +68,9 @@
       <img src="https://svgarchive.com/wp-content/uploads/fastify.svg" width="40" height="40" alt="fastify" />
     </p>
   </section>
+  <section>
+    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+  </section>
 </article>
 
 
