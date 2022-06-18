@@ -32,6 +32,12 @@
         width="40" 
         height="40"
       />
+      <img 
+        alt="react" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
+        width="40" 
+        height="40"
+      />
     </p>
   </section>
 </article>
