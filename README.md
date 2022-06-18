@@ -69,6 +69,7 @@
     </p>
   </section>
   <section>
+    <h2>Statistic</h2>
     <p>
       <img 
         align="left" 
