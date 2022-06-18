@@ -15,12 +15,23 @@
     <h2>Skills</h2>
     <p>
       <img 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
         alt="javascript" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
         width="40" 
         height="40"
       />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+      <img 
+        alt="typescript" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+        width="40" 
+        height="40"
+      />
+      <img 
+        alt="nodejs" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
+        width="40" 
+        height="40"
+      />
     </p>
   </section>
 </article>
