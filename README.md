@@ -10,7 +10,7 @@
       <br />
       The majority of my work is done in a JavaScript environment. 
     </p>
-    <p> - 🔭 I’m currently working on: PT Quantum Teknologi Nusantara</p>
+    <p> - 🔭 I’m currently working on: <b>PT Quantum Teknologi Nusantara</b></p>
     <p> - 🌱 I’m currently learning **Blockchain Development**</p>
     <p> - 🤝 I’m looking for help with **Mame Styled**</p>
     <p> - 💬 Ask me about **Javascript, React, Next.js**</p>
