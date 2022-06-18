@@ -10,6 +10,9 @@
       <br />
       The majority of my work is done in a JavaScript environment. 
     </p>
+    <p>🔭 I’m currently working on **PT Quantum Teknologi Nusantara**</p>
+    <p>🌱 I’m currently learning **Blockchain Development**</p>
+    <p></p>
   </section>
   <section>
     <h2>Skills</h2>
