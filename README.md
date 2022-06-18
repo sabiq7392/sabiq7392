@@ -10,9 +10,12 @@
       <br />
       The majority of my work is done in a JavaScript environment. 
     </p>
-    <p>🔭 I’m currently working on **PT Quantum Teknologi Nusantara**</p>
-    <p>🌱 I’m currently learning **Blockchain Development**</p>
-    <p></p>
+    <p> - 🔭 I’m currently working on **PT Quantum Teknologi Nusantara**</p>
+    <p> - 🌱 I’m currently learning **Blockchain Development**</p>
+    <p> - 🤝 I’m looking for help with **Mame Styled**</p>
+    <p> - 💬 Ask me about **Javascript, React, Next.js**</p>
+    <p> - 📫 How to reach me **sabiqmuhammad98@gmail.com**</p>
+    <p> - ⚡ Fun fact **I'm a bit of a perfectionist when it comes to coding, it can take me a long time to discover the names of functions, variables, or comments, and a pixel discrepancy can drive me insane!!!.**</p>
   </section>
   <section>
     <h2>Skills</h2>
