@@ -7,7 +7,7 @@
     <p>
       Web technology is one of my passions I enjoy working in creative industries such as
       UI design or front-end development, and back-end, blockchain development is also an option. 
-      <br /><br />
+      <br />
       The majority of my work is done in a JavaScript environment. 
     </p>
     <p> - 🔭 I’m currently working on: <b>PT Quantum Teknologi Nusantara</b></p>
@@ -20,30 +20,21 @@
   <section>
     <h2>Skills</h2>
     <p>
-      <img 
-        alt="javascript" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-        width="40" 
-        height="40"
-      />
-      <img 
-        alt="typescript" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
-        width="40" 
-        height="40"
-      />
-      <img 
-        alt="nodejs" 
-        src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" 
-        width="40" 
-        height="40"
-      />
-      <img 
-        alt="react" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
-        width="40" 
-        height="40"
-      />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+      </a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+      </a>
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+      </a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+      </a>
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+      </a>
     </p>
   </section>
 </article>
