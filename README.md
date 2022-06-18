@@ -68,6 +68,11 @@
       <img src="https://svgarchive.com/wp-content/uploads/fastify.svg" width="40" height="40" alt="fastify" />
     </p>
   </section>
+  <section>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiq7392&show_icons=true&locale=en&layout=compact" alt="sabiq7392" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabiq7392&show_icons=true&locale=en" alt="sabiq7392" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabiq7392&" alt="sabiq7392" /></p>
+  </section>
 </article>
 
 
