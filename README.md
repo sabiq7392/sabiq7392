@@ -7,7 +7,7 @@
     <p>
       Web technology is one of my passions I enjoy working in creative industries such as
       UI design or front-end development, and back-end, blockchain development is also an option. 
-      <br />
+      <br /><br />
       The majority of my work is done in a JavaScript environment. 
     </p>
     <p> - 🔭 I’m currently working on: <b>PT Quantum Teknologi Nusantara</b></p>
