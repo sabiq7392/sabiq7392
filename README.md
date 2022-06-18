@@ -1,7 +1,7 @@
 <article>
   <header>
     <h1>Hi 👋, I'm Sabiq Muhammad</h1>
-    <p><b>I'm a Fullstack Web Developer</b></p>
+    <p style="font-size: 20px;"><b>I'm a Fullstack Web Developer</b></p>
     <p>
       Web technology is one of my passions I enjoy working in creative industries such as
       UI design or front-end development, and back-end, blockchain development is also an option. 
