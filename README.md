@@ -28,7 +28,7 @@
       />
       <img 
         alt="nodejs" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
+        src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" 
         width="60" 
         height="60"
       />
