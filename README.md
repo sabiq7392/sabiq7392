@@ -72,21 +72,21 @@
     <p>
       <img 
         align="left" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiq7392&show_icons=true&locale=en&theme=dark" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiq7392&show_icons=true&locale=en&theme=github_dark" 
         alt="sabiq7392" 
       />
     </p>
     <p>
       <img 
         align="center" 
-        src="https://github-readme-stats.vercel.app/api?username=sabiq7392&show_icons=true&locale=en" 
+        src="https://github-readme-stats.vercel.app/api?username=sabiq7392&show_icons=true&locale=en&theme=github_dark" 
         alt="sabiq7392" 
       />
     </p>
     <p>
       <img 
         align="center" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=sabiq7392&" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=sabiq7392&theme=github_dark" 
         alt="sabiq7392" 
       />
     </p>
