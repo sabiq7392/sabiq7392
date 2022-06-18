@@ -72,7 +72,7 @@
     <p>
       <img 
         align="left" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiq7392&show_icons=true&locale=en&theme=radical&layout=compact&title=#fff" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=sabiq7392&show_icons=true&locale=en&theme=dark" 
         alt="sabiq7392" 
       />
     </p>
